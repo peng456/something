@@ -23,7 +23,7 @@ something
 自己吹过好多牛逼。  
 但是都没有实现。。。。。。
 
-篮球小程序
+篮球小程序（https://github.com/Tencent/omi）
 
 腾讯算法大赛
 
@@ -38,10 +38,44 @@ github 上start 了那么多项目也没时间看
 
 
 todolist:
-1、《高效能程序员的修炼》
-2、《GO语言学习笔记》
-3、《大话计算机》
+1、《高效能程序员的修炼》  
+2、《GO语言学习笔记》  
+3、《大话计算机》  
 4、《》
+
+5、端口检测系统  
+api_test_pressuretest_monitoring  https://github.com/peng456/api_test_pressuretest_monitoring
+
+6、天猫精灵  
+https://github.com/peng456/tianmaojingling
+
+7、练习架构、信号量  
+https://github.com/peng456/workerman_little  
+
+8、深入理解消息队列  
+https://github.com/peng456/rabbitmq_note  
+
+9、理解JWT  
+https://github.com/peng456/JWT  
+
+10、机器学习实战   github  笔记
+https://github.com/peng456/ml-python
+
+11、机器学习 指南 and 秋招
+https://github.com/zslomo/2019-Autumn-recruitment-experience  
+
+12、扛得住的MySQL笔记  
+https://github.com/wen-fei/MySQLForOptimization  
+
+13、考研复习笔记and 计划    
+https://github.com/chaihahaha/cheatsheets-notes  
+https://github.com/AFutureD/ZJU_CS_PEE  
+
+14、量子计算机  
+qiskit
+https://github.com/Qiskit/qiskit
+
+
 
 
 
